@@ -1,4 +1,26 @@
 
-tache 1 - Projet Analyse des données
+1- installer anaconda (python, les bibliotèques, notebook)
 
-tache 2 - Docker
+2- analyse des données
+	
+	partie : Traitez de grandes quantités de données grace à la
+		 librairie Pandas
+
+		cour 1 = Passez de Numpy à Pandas
+			Réfléchissons un peu
+			La librairie Pandas
+		cour 2 = Manipulez les données contenues dans vos DataFrames
+			Aperçu rapide
+			Données manquantes
+			Renommer une colonne
+			supprimer des axes
+			Tableaux croisés dynamiques
+		cour 3 = Effectuez les opérations d'algèbre relationnelle sur les DataFrames
+			L'algèbre relationnelle
+			Les structures de données de Pandas
+			La projection et la restriction
+			L'union
+			La jointure
+			Le produit cartésien
+			L'agrégation
+		cour 4 = Entrainez-vous en générant des cartes de voeux avec Pandas

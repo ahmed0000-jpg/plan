@@ -1,0 +1,88 @@
+Si vous me demandez quel langage choisir pour la Data Science, je répondrais sans hésiter Python.
+C'est un langage simple, mais puissant, qui possède de nombreuses librairies, adaptées pour le traitement des données.
+Dans ce cours, vous allez d'abord mettre en place votre environnement de travail.
+Ensuite, nous plongerons dans les possibilités offertes par les librairies Python, comme NumPy, Matplotlib, ou encore Seaborn.
+Enfin, vous apprendrez à manipuler des données complexes grace à la librairie Pandas.
+Vous avez fait vos premiers pas en Python et vous souhaitez développer des compétences data ?
+Alors, suivez-moi !
+
+Objectifs pédagogiques 
+	*Modifier et exécuter un notebook Jupyter
+	*Créer et installer des modules Python
+	*Visualiser des données avec Matplotlib et seaborn
+	*Manipuler des tableaux avec Numpy
+	*Manipuler un jeu de données grace à Pandas
+**********************************************************************************************************************
+partie 1- Mettez en place votre environnement de travail
+	
+1- Familiarisez-vous avec l'écosystème Python
+	choisir le bon outil
+	la simplicité VS la puissance
+	Python
+	le matériel
+	Pourquoi travailler avec un notebook ?
+2- Installez Jupyter sur votre propre ordinateur
+	ce que nous allons faire dans ce chapitre
+	installer la totale : Python + librairies + notebook (distribution Anaconda)
+	installer uniquement le notebook Jupyter (sans Anaconda)
+	installer uniquement les librairies Python (sans Anaconda)
+3- Faites vos premiers pas dans un notebook Jupyter
+	créer un nouveau notebook
+	lancer un notebook déjà crée
+	enregistrer les fonctions très souvent utilisées dans un module
+**********************************************************************************************************************
+- un tableur comme Excel
+- Contraintes
+	* Grande quantité de données
+	* Puissance de calcul
+	* Algorithmes récents
+- R ou Python
+- Python 
+	* Simple
+	* Interactif
+	* Ecosystème de qualité
+- Utilisez les bons outils
+- aws, Google Cloud, Azure
+*******************************************************************************************************************
+ça y est, la mise en place est terminée. 
+Vous allez maintenant pouvoir prendre en main des notebooks.
+Ce chapitre est assez court, juste le temps de s'assurer que vous arrivez à vous repérer dans le notebook.
+C'est parti !
+
+voilà, vous savez vous débroiller dans un notebook.
+Il est temps maintenant de voir ce qu'il est possible de faire grace aux librairies Python.
+Vous allez faire ça dans les parties suivantes de ce cours.
+************************************************************************************************************** 
+Les tableaux NumPy sont très puissants pour ce qui est des données numériques.
+Mais dans un projet Data Science, nous avons souvent affaire à beaucoup de données.
+Par exemple : des catégories, des labels, des dates, etc.
+Il peut vite devenir fastidieux de gérer toutes ces données avec NumPy.
+Pandas est la solution de choix pour ces situations.
+Nous allons découvrir ici les bases de la librairie avec les dataframes.
+
+Vous savez maintenant comment créer des dataframes à partir de vos données.
+Il est temps d'apprendre à les manipuler pour résoudre à vos questions.
+C'est ce que nous allons faire dans le chapitre suivant.
+*************************************************************************************************************
+Nous venons de voir comment transférer nos données dans un dataframe.
+Dans ce chapitre, nous allons voir les possibilités que nous offre Pandas.
+Nous allons prendre exemple sur un dataset classique :
+les survivants du naufrage du Titanic.
+Vous etes pret ? Allons-y !
+
+J'espère que vous etes maintenant convaicu de l'utilité des dataframes.
+Elles permettent tout un tas d'opérations, et notamment toutes celles de l'algèbre relationnelle.
+Dans le chapitre suivant, nous allons avoir un petit rappel sur ces opérations et voir comment les 
+effectuer avec Pandas.
+************************************************************************************************************
+Ce chapitre est dédié à Pandas.
+Pandas se base sur NumPy et fournit des structures de données et des algorithmes qui sont très utiles pour
+travailler avec les données qui ne sont pas facilement réductibles sous la forme d'un tableau.
+Nous allons ensemble découvrir ces structures et apprendre à effectuer les opérations de l'algèbre relationnelle dessus.
+Si vous n'etes pas familier avec l'algèbre relationnelle, n'hésitez pas à consulter le cours qui y est dédié sur OpenClassrooms.
+Vous etes pret ? On y va.
+
+Et voilà, vous etes maintenant pret pour vous lancer dans l'analyse de données, Félicitations d'avoir terminé ce cours.
+**************************************************************************************************************
+
+
